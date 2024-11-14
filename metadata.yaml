@@ -1,0 +1,38 @@
+_repo: Du-Niger-au-golfe-de-Guinee-par-le-pays-de-Kong-et-le-Mossi-tome-2-de-2_74721
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Riou, Edouard
+    aliases:
+    - Riou
+    - Riou, Édouard
+    - Riou, E. (Edouard)
+    birthdate: 1833
+    deathdate: 1900
+    gutenberg_agent_id: '33898'
+    url: http://www.gutenberg.org/2009/agents/33898
+creator:
+  author:
+    agent_name: Binger, Louis Gustave
+    gutenberg_agent_id: '57616'
+    url: http://www.gutenberg.org/2009/agents/57616
+description: ''
+gutenberg_issued: '2024-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74721'
+language: fr
+pgterms:marc904: https://digitale-sammlungen.de/en/view/bsb11500578
+pgterms:marc905: 20241014002243binger
+pgterms:marc906: '1892'
+pgterms:marc907: FR
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the Bayerische Staatsbibliothek)
+publication_note: '  $aFrance :$bHachette, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Du Niger au golfe de Guinée par le pays de Kong et le Mossi, tome 2 (de 2)
+url: http://www.gutenberg.org/ebooks/74721
