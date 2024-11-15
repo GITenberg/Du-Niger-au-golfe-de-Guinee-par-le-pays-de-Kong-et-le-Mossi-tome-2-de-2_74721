@@ -11,12 +11,17 @@ contributor:
     deathdate: 1900
     gutenberg_agent_id: '33898'
     url: http://www.gutenberg.org/2009/agents/33898
+covers:
+- cover_type: archival
+  image_path: 74721-h/images/cover.jpg
 creator:
   author:
     agent_name: Binger, Louis Gustave
     gutenberg_agent_id: '57616'
     url: http://www.gutenberg.org/2009/agents/57616
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74721#Du-Niger-au-golfe-de-Guinee-par-le-pays-de-Kong-et-le-Mossi-tome-2-de-2
 gutenberg_issued: '2024-11-11'
 gutenberg_type: Text
 identifiers:
